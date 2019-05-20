@@ -1,17 +1,23 @@
-*{
+* {
   margin: 0;
   padding: 0;
   font-family: "times new roman",serif;
   color: #c2c2c2;
+  background: #fff;
+}
+
+ul li {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+ul li a {
+  background: inheriat;
+  color: #fff;
 }
 
 h1{
   font-size: 50px;
   color: red;
   text-decoration: none;
-}
-
-h1{
-  font-size: 70px;
-  color: yellow;
 }
