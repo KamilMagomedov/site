@@ -27,8 +27,14 @@ p {
   font-size: 20px;
 }
 
-ol li{
+ol li {
   list-style-type: none;
   background: inheriat;
   color: white;
+}
+
+span {
+  font-weight: 900;
+  background: #c2c2c2;
+  color: green;
 }
