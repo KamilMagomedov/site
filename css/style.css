@@ -6,35 +6,7 @@
   background: #fff;
 }
 
-ul li {
-  text-decoration: none;
-  list-style-type: none;
-}
-
-ul li a {
-  background: inheriat;
-  color: #fff;
-}
-
-h1 {
-  font-size: 50px;
-  color: red;
-  text-decoration: none;
-}
-
-p {
-  color: black;
-  font-size: 20px;
-}
-
-ol li {
-  list-style-type: none;
-  background: inheriat;
-  color: white;
-}
-
-span {
-  font-weight: 900;
-  background: #c2c2c2;
+body{
+  background-color: #c2c2c2;
   color: green;
 }
